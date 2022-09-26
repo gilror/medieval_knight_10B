@@ -2,9 +2,9 @@
 Proyecto de videojuego con aplicación PWA
 
 
-Integrantes:
+- Integrantes:
 
-Jessica Castillo Paredes/n
-Brenda Paola Flores Carcaño
-Angel Enrique Cruz González
-Gilberto Rodríguez Ramírez
+  -Jessica Castillo Paredes/n
+  -Brenda Paola Flores Carcaño
+  -Angel Enrique Cruz González
+  -Gilberto Rodríguez Ramírez
